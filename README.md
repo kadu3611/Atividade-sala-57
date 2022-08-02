@@ -7,7 +7,7 @@ Atividade em grupo midlwares
  - De um nmp i nodemon -D
  
  * Em package.json cole:
- * 
+
  {
   "name": "atividade-em-grupo",
   "version": "1.0.0",
