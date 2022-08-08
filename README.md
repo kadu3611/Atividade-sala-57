@@ -2,7 +2,7 @@
 Atividade em grupo midlwares
 
 * ANTES DE COMEÇAR
- - De um nmp init -y
+ - De um npm init -y
  - De um nmp i express
  - De um nmp i nodemon -D
  
