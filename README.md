@@ -3,8 +3,8 @@ Atividade em grupo midlwares
 
 * ANTES DE COMEÇAR
  - De um npm init -y
- - De um nmp i express
- - De um nmp i nodemon -D
+ - De um npm i express
+ - De um npm i nodemon -D
  
  * Em package.json cole:
 
